@@ -1,4 +1,4 @@
-### Olá eu Sou o Paulo Sérgio 👨🏽👋🏽
+### Olá eu Sou o Paulo Sérgio 👨🏽‍🦱👋🏽
 
 ## Sobre mim
 
