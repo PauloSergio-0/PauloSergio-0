@@ -12,6 +12,7 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eBxqaEDwyG)
 
 ![Paulo Sérgio GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&theme=dark)
 
 
