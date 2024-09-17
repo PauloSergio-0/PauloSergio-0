@@ -9,10 +9,9 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.madureira.dev@gmail.com)
 
 
-![Paulo Sérgio GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&theme=dark)
+![Paulo Sérgio GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&locale=pt-br&&theme=dark)
 
 
 ### Tecnologias que utilizo
