@@ -9,8 +9,8 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.madureira.dev@gmail.com)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" style="max-width: 100%; height: auto;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" style="max-width: 100%; ;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%;"/>
   <br><br>
 </div>
 
