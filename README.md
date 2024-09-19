@@ -8,11 +8,12 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-s%C3%A9rgio--dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.madureira.dev@gmail.com)
 
-<div style="display: flex; justify-content: space-between;  align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" "/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
-  <br> <br>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;"/>
+  <br><br>
 </div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&locale=pt-br&&theme=dark)
 
