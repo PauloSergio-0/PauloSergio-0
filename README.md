@@ -7,8 +7,11 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-s%C3%A9rgio--dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.madureira.dev@gmail.com)
+<div>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PauloSergio-0&theme=onedark&margin-w=15" alt="PauloSergio-0" /></a> </p>
+</div> 
 
-### Tecnologias que utilizo
+<h2>Tecnologias que utilizo</h2>
 
 <div style="display: inline-flex; align-items: center;">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
