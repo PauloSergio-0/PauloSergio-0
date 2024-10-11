@@ -5,7 +5,7 @@
 
 Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia, apaixonado por programação e desenvolvimento de software. Estou sempre em busca de aprender novas habilidades e aplicar conhecimentos para resolver problemas de forma criativa e eficiente. Atualmente, estou focado em projetos que envolvem Python, java, Flask e Banco de dados.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-s%C3%A9rgio--dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-s%C3%A9rgio--dev)&
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.madureira.dev@gmail.com)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
