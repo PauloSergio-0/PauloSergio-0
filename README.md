@@ -8,16 +8,6 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-s%C3%A9rgio--dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.madureira.dev@gmail.com)
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" style="max-width: 10%; margin: 0px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 30%; margin: 0px;"/>
-</div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&locale=pt-br&&theme=dark)
-
-
-
 ### Tecnologias que utilizo
 
 <div style="display: inline-flex; align-items: center;">
@@ -28,4 +18,15 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
     <img align="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
     <img align="center" alt="Oracle Database" src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <br><br>
 </div>
+
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" style="max-width: 10%; margin: 0px;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&layout=compact&theme=dark&hide_border=true" width="357" />
+  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 830px"/>
+</div>
+
+
