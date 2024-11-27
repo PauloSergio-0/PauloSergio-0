@@ -7,6 +7,7 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-s%C3%A9rgio--dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.madureira.dev@gmail.com)
+[![](https://visitcount.itsvg.in/api?id=PauloSergio-0&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <h2>Tecnologias que utilizo</h2>
 
