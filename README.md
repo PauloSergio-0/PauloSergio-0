@@ -22,10 +22,11 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" style="max-width: 10%; margin: 0px;"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&layout=compact&theme=dark&hide_border=false" width="354.9" />
-  </div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" width="467.5" margin= "0"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&layout=compact&theme=dark&hide_border=false" width="354.9" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 826px"/>
 </div>
 
