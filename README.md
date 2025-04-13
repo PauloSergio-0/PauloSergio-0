@@ -23,7 +23,7 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" width="468" margin= "0"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&locale=pt-br&theme=dark" alt="Paulo Sérgio GitHub stats" width="472" margin= "0"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&layout=compact&theme=dark&hide_border=false" width="359" />
   
