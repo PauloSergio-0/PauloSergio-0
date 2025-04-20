@@ -4,10 +4,11 @@
 <h1 style = "font: bold"> About me </h1>
 
 <p>
-   Hello! My name is Paulo Sérgio Madureira de Souza. I’m a student and a technology enthusiast focused on programming and software development. I am always seeking to learn new skills and apply my knowledge to solve problems creatively and efficiently. Currently, I am focused on projects involving Python, Java, APIs and databases..
+   Hello! My name is Paulo Sérgio Madureira de Souza. I’m a student and a technology enthusiast focused on programming and software development. I am always seeking to learn new skills and apply my knowledge to solve problems creatively and efficiently. Currently, I am focused on projects involving Python, Java, APIs and databases.
 </p>
 
 <div align="center">
+   
    <a href="https://www.linkedin.com/in/paulo-s%C3%A9rgio--dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:paulo.madureira.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    
