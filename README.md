@@ -1,15 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CC2FF&height=120&section=header"/>
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Paulo+Sérgio+Madureira+de+Souza;I+study+analysis+and+systems+development+at+Estácio;Be+Welcome!+👨🏽‍🦱👋🏽"/>
 
-## Sobre mim
+<h1 style = "font: bold"> About me </h1>
 
 
-Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia, apaixonado por programação e desenvolvimento de software. Estou sempre em busca de aprender novas habilidades e aplicar conhecimentos para resolver problemas de forma criativa e eficiente. Atualmente, estou focado em projetos que envolvem Python, java, Flask e Banco de dados.
+<p>
+   Hello! My name is Paulo Sérgio Madureira de Souza. I’m a student and a technology enthusiast focused on programming and software development. I am always seeking to learn new skills and apply my knowledge to solve problems creatively and efficiently. Currently, I am focused on projects involving Python, Java, APIs and databases..
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-s%C3%A9rgio--dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.madureira.dev@gmail.com)
 
-<h2>Tecnologias que utilizo</h2>
+<h2>Tech Stack</h2>
 
 <div style="display: inline-flex; align: center;">
     <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
@@ -21,6 +23,8 @@ Olá! Sou Paulo Sérgio Madureira de Souza, estudante e entusiasta da tecnologia
     <img  alt="Oracle Database" src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <br><br>
 </div>
+
+<h2 style = "font: bold">Tech Stats</h2>
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   
