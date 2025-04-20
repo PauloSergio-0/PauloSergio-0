@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CC2FF&height=120&section=header"/>
-<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=4CC2FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Paulo+Sérgio+Madureira+de+Souza;I+study+analysis+and+systems+development+at+Estácio;Be+Welcome!+👨🏽‍🦱👋🏽"/>
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=4CC2FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Paulo+Sérgio+Madureira+de+Souza;I+study+analysis+and+systems+development+at+Estácio;Be+Welcome!+👨🏽‍🦱👋🏽"/>
 
 <h1 style = "font: bold"> About me </h1>
 
