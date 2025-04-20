@@ -35,7 +35,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&layout=compact&theme=dark&hide_border=false&langs_count=8&card_width=1&text_color=B4F9CE" width="358.5" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false&ring=4CC2FF&fire=4CC2FF&currStreakLabel=4CC2FF" alt="GitHub Streak Stats" style="width: 835px ; margin-top: 2px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false&ring=4CC2FF&fire=F0120D&currStreakLabel=4CC2FF" alt="GitHub Streak Stats" style="width: 835px ; margin-top: 2px;"/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloSergio-0&custom_title=Paulo%20Sérgio%20activity%20graph&bg_color=151515&color=FFFFFF&line=4FC3F7&point=FB8C00&area=true&hide_border=false&radius=12&grid=false&area_color=ffffff" alt="activity graph" style="width: 835px; margin-top: 2px; "/>
   
