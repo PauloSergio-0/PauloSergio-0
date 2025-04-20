@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-s%C3%A9rgio--dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.madureira.dev@gmail.com)
-
+ 
 <h2>Tech Stack</h2>
 
 <div style="display: inline-flex; align: center;">
@@ -28,13 +28,14 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&theme=dark" alt="Paulo Sérgio GitHub stats" width="472" margin= "0"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloSergio-0&show_icons=true&theme=dark&icon_color=4CC2FF&title_color=ffffff&text_color=B4F9CE&ring_color=4CC2FF&show=prs_merged&line_height=28" alt="Paulo Sérgio GitHub stats" width="472" margin= "0"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&layout=compact&theme=dark&hide_border=false" width="358.5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio-0&layout=compact&theme=dark&hide_border=false&langs_count=8&card_width=1&text_color=B4F9CE" width="358.5" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 835px ; margin-top: 2px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSergio-0&theme=dark&hide_border=false&ring=4CC2FF&fire=4CC2FF&currStreakLabel=4CC2FF" alt="GitHub Streak Stats" style="width: 835px ; margin-top: 2px;"/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloSergio-0&custom_title=Paulo%20Sérgio%20activity%20graph&bg_color=151515&color=FFFFFF&line=4FC3F7&point=FB8C00&area=true&hide_border=false&radius=12&grid=false&area_color=ffffff" alt="activity graph" style="width: 835px; margin-top: 2px; "/>
+  
 </div>
 
 
